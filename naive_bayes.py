@@ -1,3 +1,5 @@
+#Naive Bayes Algorithm Implementation without using numpy library
+#First Machine Learning code
 import sys
 
 #function for reading Data File
